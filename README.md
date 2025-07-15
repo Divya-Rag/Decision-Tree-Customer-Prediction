@@ -82,7 +82,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-Let me know if you'd like me to update this with your actual evaluation metrics or insert the image markdown for your confusion matrix and feature importance visuals!
+
 
 
 
